@@ -2,7 +2,6 @@ import random
 import sys 
 import pygame
 from pygame.locals import * 
-import pkg_resources.py2_warn
 
 FPS = 32
 SCREENWIDTH = 289
